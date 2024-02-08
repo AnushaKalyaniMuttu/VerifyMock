@@ -1,0 +1,1 @@
+verify(mock, times(10)).someMethod();
